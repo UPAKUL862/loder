@@ -1,4 +1,4 @@
-version=20.0.0
+version=21.0.0
 maintenance=false
 updateUrl=https://github.com/UPAKUL862/loder/releases/download/v1.0.0/MultiLoader.exe
 maintenance_internal=false
